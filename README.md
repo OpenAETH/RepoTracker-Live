@@ -18,7 +18,7 @@ Diseñada para flujos de trabajo artesanales donde querés trazabilidad sin la f
 
 ```bash
 pip install flet==0.28.3 watchdog
-python repo_tracker.py
+python repotracker-live-flet.py
 ```
 
 **Requisitos:** Python 3.10+
